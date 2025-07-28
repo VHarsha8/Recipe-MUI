@@ -1,7 +1,7 @@
 import React, { useEffect,useState } from 'react';
 import { Typography,Stack } from '@mui/material';
 import ResponsiveAppBar from '../components/NavBar';
-import RecipeReviewCard from '../components/REceipeCard';
+import RecipeReviewCard from '../components/ReceipeCard';
 function Home(){
 
 
